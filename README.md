@@ -14,7 +14,7 @@
 
 - ✍️ &nbsp; Continue learning this beautiful career in order to contribute in each instance that arises
 
-
+<hr/>
 
 <h3>🛠 Tech Skills</h3>
 
@@ -33,7 +33,7 @@
 
 - 🔧 &nbsp; Scrum | Agile | TeamWork | GTD
 
-<hr>
+<hr/>
 
 
 
@@ -41,7 +41,7 @@
 
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase |
 
-<hr>
+<hr/>
 
 
 
@@ -49,14 +49,25 @@
 
 - 🧑‍💻 &nbsp; <a href="https://morangullit.github.io/Todo-Tarea-js/" target="_blank">All Task </a>
 
+<p> Project carried out with the course taught by Fernando Herrera, applied technology JavaScript, HTML, CSS, Bootstrap</p>
+
 - 🧑‍💻 &nbsp; <a href="https://countriesmoran.netlify.app/" target="_blank">Countries </a>
+
+<p> Project made with the following technologies JavaScript, React, Redux, Nodejs, HTML, CSS, PosgretSQL, all learned in Henry's bootcamp</p>
 
 - 🧑‍💻 &nbsp; <a href="https://gitexpertmoran.netlify.app/" target="_blank">Git Expert </a>
 
+<p> Project carried out with the course taught by Fernando Herrera, the following technologies were used: JavaScript, React, HTML, CSS, Fecth API, Bootstrap</p>
+
 - 🧑‍💻 &nbsp; <a href="https://heroesmarvelmoran.netlify.app/login" target="_blank">Heroes Marvel </a>
 
+<p> Project carried out with the course taught by Fernando Herrera, the following technologies were used: JavaScript, React, HTML, CSS, Bootstrap</p>
 
-<hr>
+- 🧑‍💻 &nbsp; <a href="https://flight-deck-ten.vercel.app/" target="_blank">Flight Deck </a>
+
+<p> Project carried out in a work team with the following technologies: TypeScript, Tailwind, Nextjs 13, HTML, CSS, MongoDB, Prisma, Echarts</p>
+
+<hr/>
 
 
 
@@ -76,13 +87,13 @@
 
 
 
-<hr>
+<hr/>
 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<br>
+<br/>
 
 
 
