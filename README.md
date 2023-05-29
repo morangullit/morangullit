@@ -39,7 +39,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase |
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Among other applications
 
 <hr/>
 
