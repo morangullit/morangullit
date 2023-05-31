@@ -102,7 +102,7 @@
 
 <a href="https://cv-moran.netlify.app/"><img alt="CV" src="https://img.shields.io/badge/CV-Gullit%20Moran-blue?style=flat-square"></a>
 
-<a href="https://www.linkedin.com/in/gullit-enrique-moran-escobar-731272a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gullit%20Moran-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/gullitmoran/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gullit%20Moran-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:gullitmoran@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gullitmoran@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
