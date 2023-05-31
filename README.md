@@ -47,23 +47,23 @@
 
 <h3>🛠 Projects</h3>
 
-- 🧑‍💻 &nbsp; <a href="https://morangullit.github.io/Todo-Tarea-js/" target="_blank">All Task </a>
+- 🧑‍💻 &nbsp; <a href="https://morangullit.github.io/Todo-Tarea-js/" target="_blank" rel="noopener noreferrer">All Task </a>
 
 <p> Project carried out with the course taught by Fernando Herrera, applied technology JavaScript, HTML, CSS, Bootstrap</p>
 
-- 🧑‍💻 &nbsp; <a href="https://countriesmoran.netlify.app/" target="_blank">Countries </a>
+- 🧑‍💻 &nbsp; <a href="https://countriesmoran.netlify.app/" target="_blank" rel="noopener noreferrer">Countries </a>
 
 <p> Project made with the following technologies JavaScript, React, Redux, Nodejs, HTML, CSS, PosgretSQL, all learned in Henry's bootcamp</p>
 
-- 🧑‍💻 &nbsp; <a href="https://gitexpertmoran.netlify.app/" target="_blank">Git Expert </a>
+- 🧑‍💻 &nbsp; <a href="https://gitexpertmoran.netlify.app/" target="_blank" rel="noopener noreferrer">Git Expert </a>
 
 <p> Project carried out with the course taught by Fernando Herrera, the following technologies were used: JavaScript, React, HTML, CSS, Fecth API, Bootstrap</p>
 
-- 🧑‍💻 &nbsp; <a href="https://heroesmarvelmoran.netlify.app/login" target="_blank">Heroes Marvel </a>
+- 🧑‍💻 &nbsp; <a href="https://heroesmarvelmoran.netlify.app/login" target="_blank" rel="noopener noreferrer">Heroes Marvel </a>
 
 <p> Project carried out with the course taught by Fernando Herrera, the following technologies were used: JavaScript, React, HTML, CSS, Bootstrap</p>
 
-- 🧑‍💻 &nbsp; <a href="https://flight-deck-ten.vercel.app/" target="_blank">Flight Deck </a>
+- 🧑‍💻 &nbsp; <a href="https://flight-deck-ten.vercel.app/" target="_blank" rel="noopener noreferrer">Flight Deck </a>
 
 <p> Project carried out in a work team with the following technologies: TypeScript, Tailwind, Nextjs 13, HTML, CSS, MongoDB, Prisma, Echarts</p>
 
@@ -99,8 +99,9 @@
 
 <p align="center">
 
+
 <a href="https://cv-moran.netlify.app/"><img alt="CV" src="https://img.shields.io/badge/CV-Gullit%20Moran-blue?style=flat-square"></a>
-  
+
 <a href="https://www.linkedin.com/in/gullit-enrique-moran-escobar-731272a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gullit%20Moran-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:gullitmoran@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gullitmoran@gmail.com-blue?style=flat-square&logo=gmail"></a>
